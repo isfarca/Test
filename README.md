@@ -21,18 +21,18 @@ You can sprint with 'Shift'.
 
 ### Artists
 
-* Dominique Mowius (Traumwolf)
+* Dominique Mowius "Traumwolf"
 * Michael Kaiser
 * Nikolaj Riedel
 
 ### Programmer
 
 * Alexander Sinzig
-* [Fethi Isfarca (divinus41)] (https://twitter.com/divinus41?lang=de)
+* [Fethi Isfarca "divinus41"] (https://twitter.com/divinus41?lang=de)
 
 ## Update history
 
--
+--
 
 ## Note
 
