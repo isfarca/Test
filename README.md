@@ -24,7 +24,7 @@ TEXT
 
 ## Update history
 
-* POINTS
+* -
 
 ## Note
 
