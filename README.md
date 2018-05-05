@@ -28,7 +28,7 @@ You can sprint with 'Shift'.
 ### Programmer
 
 * Alexander Sinzig
-* [Fethi Isfarca "divinus41"] (https://twitter.com/divinus41?lang=de)
+* [FethiIsfarca"divinus41"] (https://twitter.com/divinus41?lang=de)
 
 ## Update history
 
