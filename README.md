@@ -28,7 +28,7 @@ You can sprint with 'Shift'.
 ### Programmer
 
 * Alexander Sinzig
-* Fethi Isfarca (divinus41) (https://twitter.com/divinus41)
+* [Fethi Isfarca (divinus41)](https://twitter.com/divinus41)
 
 ## Update history
 
@@ -40,4 +40,4 @@ Currently a lot of bugs. Sorry!
 
 ## Links
 
-[itch.io] (https://traumwolf.itch.io/rapid-corruption)
+[itch.io](https://traumwolf.itch.io/rapid-corruption)
